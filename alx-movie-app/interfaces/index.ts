@@ -7,3 +7,8 @@ export interface ComponentsProps {
 export interface ButtonProps {
     title: string;
 }
+
+export interface LogoProps {
+    width: number | string;
+    height: number | string;
+}
