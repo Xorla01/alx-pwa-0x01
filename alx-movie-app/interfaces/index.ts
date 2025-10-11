@@ -6,6 +6,7 @@ export interface ComponentsProps {
 
 export interface ButtonProps {
     title: string;
+    action?: () => void;
 }
 
 export interface LogoProps {
