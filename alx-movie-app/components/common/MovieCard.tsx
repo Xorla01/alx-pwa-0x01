@@ -16,4 +16,4 @@ export const MovieCard: React.FC<MovieProps> = ({ title, posterImage, releaseYea
   )
 }
 
-export default MovieCard
+export default MovieCard;

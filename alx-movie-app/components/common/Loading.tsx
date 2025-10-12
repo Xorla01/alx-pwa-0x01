@@ -5,6 +5,7 @@ export const Loading: React.FC = () => {
         <h1 className="text-4xl md:text-6xl font-semibold text-white mb-4 animate-pulse">
           Loading...
         </h1>
+        
         <p className="text-lg text-gray-300">Please wait, we&apos;re getting next set of movies ready for you.</p>
       </div>
     </div>

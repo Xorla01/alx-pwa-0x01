@@ -8,4 +8,5 @@ export const Button: React.FC<ButtonProps> = ({ title, action }) => {
   )
 }
 
+
 export default Button;
